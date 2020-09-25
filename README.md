@@ -12,5 +12,7 @@ fungsi ini dijalankan untuk membuat tabel pada database
 
 Setelah itu backend telah siap untuk dipakai
 
+Backend dapat digunakan pada http://localhos:5000
+
 
 Untuk pemakaian selanjutnya jika sudah melakukan npm run setup maka dapat menggunakan npm run start untuk menjalankan aplikasi backend
