@@ -138,7 +138,7 @@ API ini digunakan untuk menghapus data spasial. Body pada data menggunakan forma
 ```
 
 ## Mengambil data spasial
-> POST /api/v1/get-features?type={tipe data}
+> GET /api/v1/get-features?type={tipe data}
 
 API ini digunakan untuk mengambil data spasial yang ada pada database. ada 3 jenis tipe data yaitu polygon, line dan point
 Response yang diterima sebagai berikut.
